@@ -1,3 +1,7 @@
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/MSc.-in-AI-ETH-Zurich-and-USI-Simulation-Modulation-and-Optimization" alt = "Visitors-Counter"/>
+</body>
+
 #### Title: "Simulation, Modulation, and Optimization"
 #### Master in Artificial Intelligence
 #### Speaker: Heider Jeffer
